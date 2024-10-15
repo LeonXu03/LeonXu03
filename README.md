@@ -23,5 +23,5 @@ I am an undergraduate Computer Engineering student at the University of Waterloo
 - 📖 I love to read books, 🏐/⚽ play soccer and volleyball, 🎵 listen to music, and 🌴 explore unfamiliar locations.
 - 📫 Reach out to me at: <a href="l328xu@uwaterloo.ca">l328xu@uwaterloo.ca</a>
 
-## **👀 Check out my favourite Personal Projects on GitHub!**
+## **👀 Check out my favourite (pinned) Personal Projects below on GitHub!**
 

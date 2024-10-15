@@ -25,22 +25,3 @@ I am an undergraduate Computer Engineering student at the University of Waterloo
 
 ## **👀 Check out my favourite Personal Projects on GitHub!**
 
-<div>
-  <p>
-    <a href="https://github.com/LeonXu03/RedBubbleFinancialAggregator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonXu03&repo=RedBubbleFinancialAggregator" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/LeonXu03/Chronos">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonXu03&repo=Chronos" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/LeonXu03/ChompAndChaseMazeGame">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonXu03&repo=ChompAndChaseMazeGame" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/LeonXu03/Syllabye">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonXu03&repo=Syllabye" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
----------------------------------------------------------------------------------------------------------------------
-Last Updated: Monday October 14, 2024

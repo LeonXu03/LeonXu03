@@ -4,6 +4,7 @@
 I am an undergraduate Computer Engineering student at the University of Waterloo. **Python**, **Go**, **Java**, **C++**, **Elixir**, **Javascript**, **Typescript** are the programming languages I am most proficient in. I love building niche, innovative tools to make our everyday lives easier. 
 
 ## **💪 Past Internship Experience**
+- Software Engineer Intern @ [Tensor Trade](https://www.tensor.trade/)
 - Data Architect Intern @ [KOHO Financial Inc](https://www.linkedin.com/company/koho/posts/?feedView=all)
 - Backend Software Engineer Intern @ [KOHO Financial Inc](https://www.linkedin.com/company/koho/posts/?feedView=all)
 - Full-Stack Software Engineer Intern @ [How to Change the World Incorporated](https://www.linkedin.com/company/howtochangetheworld/posts/?feedView=all)
